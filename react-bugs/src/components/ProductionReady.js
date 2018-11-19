@@ -8,7 +8,7 @@ const ProductionReady = props => {
   ].map(num => (num < 10 ? '0' + num : num))
 
   return (
-    <h1>
+     <h1>
       {hours} : {minutes} : {seconds}
     </h1>
   )

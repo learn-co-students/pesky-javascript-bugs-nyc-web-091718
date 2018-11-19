@@ -3,3 +3,8 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.huge-button {
+  margin: 10;
+  color: green;
+}
